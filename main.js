@@ -2,6 +2,7 @@
 const b=150;
 b=200;
 
+console.log ("hello world");
 
 // document.write(a--);
 // document.write("<br>");
